@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/car1.png</file>
+        <file>images/car2.png</file>
+        <file>images/car3.png</file>
+        <file>images/winicon.ico</file>
+    </qresource>
+</RCC>
